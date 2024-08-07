@@ -56,8 +56,6 @@ INSERT INTO Categories (CategoryID, CategoryName) VALUES
 
 
 INSERT INTO CategoryRelations (ParentCategoryID, ChildCategoryID) VALUES
-(5, 6),
-(5, 6),
 (1, 2),
 (1, 3),
 (1, 12),
