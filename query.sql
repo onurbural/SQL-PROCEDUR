@@ -121,4 +121,7 @@ BEGIN
     SELECT * FROM CategoryHierarchy
     ORDER BY Level
 END;
-EXEC PROCEDUR ;
+
+
+
+EXEC GetCategoryHierarchyWParams 10
