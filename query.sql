@@ -89,8 +89,10 @@ INSERT INTO CategoryRelations (ParentCategoryID, ChildCategoryID) VALUES
 
 
 
+USE PROCEDUR
 
-CREATE PROCEDURE GetCategoryHierarchyWParams
+
+CREATE PROCEDURE GetCategoryHierarchyWParams1
     @CategoryID INT
 AS
 BEGIN
@@ -118,10 +120,10 @@ BEGIN
         INNER JOIN CategoryRelations cr ON c.CategoryID = cr.ChildCategoryID
         INNER JOIN CategoryHierarchy ch ON cr.ParentCategoryID = ch.CategoryID
     )
-    SELECT * FROM CategoryHierarchy
-    ORDER BY Level
+    SELECT * 
+    FROM CategoryHierarchy
+    ORDER BY FullPath
 END;
 
 
-
-EXEC GetCategoryHierarchyWParams 10
+EXEC GetCategoryHierarchyWParams1 1;
