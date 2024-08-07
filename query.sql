@@ -82,8 +82,8 @@ INSERT INTO CategoryRelations (ParentCategoryID, ChildCategoryID) VALUES
 (24, 25),
 (26, 27),
 (26, 28),
-(27	,17),
-(28	,30),
+(27, 17),
+(28, 30),
 (30, 29)
 
 
