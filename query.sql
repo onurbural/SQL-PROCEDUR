@@ -90,14 +90,7 @@ INSERT INTO CategoryRelations (ParentCategoryID, ChildCategoryID) VALUES
 
 
 
-
-USE [PROCEDUR]
-GO
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-ALTER PROCEDURE [dbo].[GetCategoryHierarchyWParams]
+CREATE PROCEDURE GetCategoryHierarchyWParams
     @CategoryID INT
 AS
 BEGIN
@@ -128,6 +121,4 @@ BEGIN
     SELECT * FROM CategoryHierarchy
     ORDER BY Level
 END;
-
-
 EXEC PROCEDUR ;
