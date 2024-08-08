@@ -25,6 +25,10 @@
       {
          "Name": "[dbo].[GetCategoryHierarchyWParams1]",
          "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[IDLISTESIYLEGETIRME]",
+         "ObjectType": 1
       }
    ],
    "UiHint": null,

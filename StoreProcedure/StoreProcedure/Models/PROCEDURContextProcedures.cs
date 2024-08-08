@@ -68,5 +68,32 @@ namespace StoreProcedure.Models
 
             return _;
         }
+
+        public virtual async Task<List<IDLISTESIYLEGETIRMEResult>> IDLISTESIYLEGETIRMEAsync(DataTable CategoryIDList, OutputParameter<int> returnValue = null, CancellationToken cancellationToken = default)
+        {
+            var parameterreturnValue = new SqlParameter
+            {
+                ParameterName = "returnValue",
+                Direction = System.Data.ParameterDirection.Output,
+                SqlDbType = System.Data.SqlDbType.Int,
+            };
+
+            var sqlParameters = new []
+            {
+                new SqlParameter
+                {
+                    ParameterName = "CategoryIDList",
+                    Value = CategoryIDList ?? Convert.DBNull,
+                    SqlDbType = System.Data.SqlDbType.Structured,
+                    TypeName = "[dbo].[CategoryIDTableTypeS]",
+                },
+                parameterreturnValue,
+            };
+            var _ = await _context.SqlQueryAsync<IDLISTESIYLEGETIRMEResult>("EXEC @returnValue = [dbo].[IDLISTESIYLEGETIRME] @CategoryIDList = @CategoryIDList", sqlParameters, cancellationToken);
+
+            returnValue?.SetValue(parameterreturnValue.Value);
+
+            return _;
+        }
     }
 }

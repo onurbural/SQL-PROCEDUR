@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|solutionrelative:storeprocedure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|c:\\users\\pc_4176\\source\\repos\\storeprocedure\\storeprocedure\\models\\katalogagaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|solutionrelative:storeprocedure\\models\\katalogagaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|c:\\users\\pc_4176\\source\\repos\\storeprocedure\\storeprocedure\\models\\procedurcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|solutionrelative:storeprocedure\\models\\procedurcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|c:\\users\\pc_4176\\source\\repos\\storeprocedure\\storeprocedure\\models\\procedurcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|solutionrelative:storeprocedure\\models\\procedurcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|c:\\users\\pc_4176\\source\\repos\\storeprocedure\\storeprocedure\\models\\iprocedurcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|solutionrelative:storeprocedure\\models\\iprocedurcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|c:\\users\\pc_4176\\source\\repos\\storeprocedure\\storeprocedure\\models\\getcategoryhierarchywparams1result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +23,20 @@
       "RelativeMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|solutionrelative:storeprocedure\\models\\dbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|c:\\users\\pc_4176\\source\\repos\\storeprocedure\\storeprocedure\\models\\idlistesiylegetirmeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|solutionrelative:storeprocedure\\models\\idlistesiylegetirmeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|c:\\users\\pc_4176\\source\\repos\\storeprocedure\\storeprocedure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|solutionrelative:storeprocedure\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|c:\\users\\pc_4176\\source\\repos\\storeprocedure\\storeprocedure\\models\\iprocedurcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|solutionrelative:storeprocedure\\models\\iprocedurcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|c:\\users\\pc_4176\\source\\repos\\storeprocedure\\storeprocedure\\models\\procedurcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA27D87-8ECD-412C-AC17-FE21547F0201}|StoreProcedure\\StoreProcedure.csproj|solutionrelative:storeprocedure\\models\\procedurcontextprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,39 +54,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "StoreProcedure\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\Category.cs",
-              "RelativeToolTip": "StoreProcedure\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "KatalogAgaci.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\KatalogAgaci.cs",
+              "RelativeDocumentMoniker": "StoreProcedure\\Models\\KatalogAgaci.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\KatalogAgaci.cs",
+              "RelativeToolTip": "StoreProcedure\\Models\\KatalogAgaci.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vxAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T14:34:03.882Z",
+              "WhenOpened": "2024-08-08T10:49:25.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "DbContextExtensions.cs",
               "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\DbContextExtensions.cs",
               "RelativeDocumentMoniker": "StoreProcedure\\Models\\DbContextExtensions.cs",
               "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\DbContextExtensions.cs",
               "RelativeToolTip": "StoreProcedure\\Models\\DbContextExtensions.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T14:34:00.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "IDLISTESIYLEGETIRMEResult.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\IDLISTESIYLEGETIRMEResult.cs",
+              "RelativeDocumentMoniker": "StoreProcedure\\Models\\IDLISTESIYLEGETIRMEResult.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\IDLISTESIYLEGETIRMEResult.cs",
+              "RelativeToolTip": "StoreProcedure\\Models\\IDLISTESIYLEGETIRMEResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:58:54.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GetCategoryHierarchyWParams1Result.cs",
               "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\GetCategoryHierarchyWParams1Result.cs",
               "RelativeDocumentMoniker": "StoreProcedure\\Models\\GetCategoryHierarchyWParams1Result.cs",
               "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\GetCategoryHierarchyWParams1Result.cs",
               "RelativeToolTip": "StoreProcedure\\Models\\GetCategoryHierarchyWParams1Result.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T14:33:57.315Z",
               "EditorCaption": ""
@@ -86,25 +107,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PROCEDURContextProcedures.cs",
-              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\PROCEDURContextProcedures.cs",
-              "RelativeDocumentMoniker": "StoreProcedure\\Models\\PROCEDURContextProcedures.cs",
-              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\PROCEDURContextProcedures.cs",
-              "RelativeToolTip": "StoreProcedure\\Models\\PROCEDURContextProcedures.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAwwC0AAABtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T14:33:55.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "PROCEDURContext.cs",
               "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\PROCEDURContext.cs",
               "RelativeDocumentMoniker": "StoreProcedure\\Models\\PROCEDURContext.cs",
               "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\PROCEDURContext.cs",
               "RelativeToolTip": "StoreProcedure\\Models\\PROCEDURContext.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAIwBkAAAANAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA1wBkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T14:33:51.797Z",
               "EditorCaption": ""
@@ -117,20 +125,46 @@
               "RelativeDocumentMoniker": "StoreProcedure\\Program.cs",
               "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Program.cs",
               "RelativeToolTip": "StoreProcedure\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAARAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwFAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T14:31:58.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "StoreProcedure\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\Category.cs",
+              "RelativeToolTip": "StoreProcedure\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:34:03.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PROCEDURContextProcedures.cs",
+              "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\PROCEDURContextProcedures.cs",
+              "RelativeDocumentMoniker": "StoreProcedure\\Models\\PROCEDURContextProcedures.cs",
+              "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\PROCEDURContextProcedures.cs",
+              "RelativeToolTip": "StoreProcedure\\Models\\PROCEDURContextProcedures.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAD4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:33:55.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IPROCEDURContextProcedures.cs",
               "DocumentMoniker": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\IPROCEDURContextProcedures.cs",
               "RelativeDocumentMoniker": "StoreProcedure\\Models\\IPROCEDURContextProcedures.cs",
               "ToolTip": "C:\\Users\\PC_4176\\source\\repos\\StoreProcedure\\StoreProcedure\\Models\\IPROCEDURContextProcedures.cs",
               "RelativeToolTip": "StoreProcedure\\Models\\IPROCEDURContextProcedures.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T14:34:10.158Z",
               "EditorCaption": ""
