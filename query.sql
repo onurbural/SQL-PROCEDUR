@@ -1,5 +1,7 @@
 CREATE DATABASE PROCEDUR
 
+USE PROCEDUR;
+    
 CREATE TABLE Categories (
     CategoryID INT PRIMARY KEY,
     CategoryName VARCHAR(255) NOT NULL
@@ -65,11 +67,12 @@ INSERT INTO CategoryRelations (ParentCategoryID, ChildCategoryID) VALUES
 (3, 5),
 (3, 6),
 (4, 9),
+(4, 10),
 (7, 11),
 (7, 27),
 (8, 14),
 (9, 32),
-(10,31),
+(10, 31),
 (13, 14),
 (18, 20),
 (18, 28),
